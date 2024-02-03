@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/social-links-html-css-flexbox-SoO8-kw_vF
 - Live Site URL: https://5ino3vil.github.io/Social-Links-Profile  
 
 ## My process
